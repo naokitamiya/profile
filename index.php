@@ -215,11 +215,11 @@
       </div>
     </div>
 
-    <div class="container">
+    <!-- <div class="container">
       <div class="row">
         <div class="col-sm-12 col-md-12 col-lg-12">
           <div class="wow bounceInUp" data-wow-delay="0.4s">
-            <!-- <div id="owl-works" class="owl-carousel">
+            <div id="owl-works" class="owl-carousel">
               <div class="item"><a href="img/gallery/IMG_4017.jpg" title="" data-lightbox-gallery="gallery1"><img src="img/gallery/IMG_4017.jpg" class="img-responsive" alt="img"></a></div>
               <div class="item"><a href="img/gallery/IMG_2956.jpg" title="" data-lightbox-gallery="gallery1"><img src="img/gallery/IMG_2956.jpg" class="img-responsive " alt="img"></a></div>
               <div class="item"><a href="img/gallery/IMG_5498.jpg" title="" data-lightbox-gallery="gallery1"><img src="img/gallery/IMG_5498.jpg" class="img-responsive " alt="img"></a></div>
@@ -232,11 +232,11 @@
               <div class="item"><a href="img/gallery/IMG_7207.jpg" title="" data-lightbox-gallery="gallery1"><img src="img/gallery/IMG_7207.jpg" class="img-responsive " alt="img"></a></div>
               <div class="item"><a href="img/gallery/IMG_0954.jpg" title="" data-lightbox-gallery="gallery1"><img src="img/gallery/IMG_0954.jpg" class="img-responsive " alt="img"></a></div>
               <div class="item"><a href="img/gallery/IMG_7309.JPG" title="" data-lightbox-gallery="gallery1"><img src="img/gallery/IMG_7309.JPG" class="img-responsive " alt="img"></a></div>
-            </div> -->
+            </div>
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
   </section>
   <!-- /Section: services -->
 
